@@ -1,0 +1,42 @@
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_afd0b053-95c6-4395-8100-ce9e5ed8677e.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 7 'F' "F"
+
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_8f083f65-2424-49f7-aa10-6186edb76bdf.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 10 'F' "F"
+
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_8192e705-62ee-4cba-94f3-678f98d59497.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 10 'F' "F"
+
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_79191a96-daee-48f9-a13a-e8f3125a77de.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 10 'F' "F"
+
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_c3f02e75-aa88-4af1-980b-0a7af0692100.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 10 'F' "F"
+
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_2c6a506a-4336-491b-8c24-984b770687e2.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 10 'F' "F"
+
+Converting GML script: C:\Users\adity\OneDrive - MSFT\Gamemaker Project Files\BattleRoyale\conv\gmx\BattleRoyale_360CD1F2\objects\obj_player\Collision_f9d30368-3837-451e-8530-588005506923.gml
+String not found: ConversionLog_ConvertedString 1 'F' "F"
+String not found: ConversionLog_ConvertedString 10 'F' "F"
+
+Missing audiogroup for sound: 'snd_akm' - setting to default audio group
+Missing audiogroup for sound: 'snd_kar98k' - setting to default audio group
+Missing audiogroup for sound: 'snd_m146A' - setting to default audio group
+Missing audiogroup for sound: 'snd_ump9' - setting to default audio group
+Missing audiogroup for sound: 'snd_machinegun' - setting to default audio group
+Missing audiogroup for sound: 'snd_uzi' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_if.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
